@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/SimplePA_Test.dir/test.cpp.o -o SimplePA_Test  libSimplePA.a -lpthread -lpulse -lpulse-simple 

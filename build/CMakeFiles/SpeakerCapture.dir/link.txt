@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/SpeakerCapture.dir/main.cpp.o -o SpeakerCapture  SimplePA/libSimplePA.a -lpulse -lpulse-simple 

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libSimplePA.a CMakeFiles/SimplePA.dir/SimplePA.cpp.o
+/usr/bin/ranlib libSimplePA.a

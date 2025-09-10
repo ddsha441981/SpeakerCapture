@@ -1,0 +1,7 @@
+/media/deendayal/personal/My Data/Development/SpeakerCaptureWithSimplePA/build/CMakeFiles/SpeakerCapture.dir
+/media/deendayal/personal/My Data/Development/SpeakerCaptureWithSimplePA/build/CMakeFiles/edit_cache.dir
+/media/deendayal/personal/My Data/Development/SpeakerCaptureWithSimplePA/build/CMakeFiles/rebuild_cache.dir
+/media/deendayal/personal/My Data/Development/SpeakerCaptureWithSimplePA/build/SimplePA/CMakeFiles/SimplePA.dir
+/media/deendayal/personal/My Data/Development/SpeakerCaptureWithSimplePA/build/SimplePA/CMakeFiles/SimplePA_Test.dir
+/media/deendayal/personal/My Data/Development/SpeakerCaptureWithSimplePA/build/SimplePA/CMakeFiles/edit_cache.dir
+/media/deendayal/personal/My Data/Development/SpeakerCaptureWithSimplePA/build/SimplePA/CMakeFiles/rebuild_cache.dir
